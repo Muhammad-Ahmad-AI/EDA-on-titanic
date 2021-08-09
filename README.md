@@ -1,1 +1,1 @@
-# EDA1
+# Exploratory Data Analysis(EDA) of Titanic dataset
